@@ -1,6 +1,6 @@
 # 🌿 A UNIQUE BENGAL TOUR AND TRAVEL
 
-A modern, responsive, and immersive travel website showcasing the breathtaking beauty of the **Sundarbans**, the world's largest mangrove forest. Built with a premium UI, smooth animations, and an engaging user experience, this project is designed to inspire travelers and promote unforgettable Sundarbans tour packages....
+A modern, responsive, and immersive travel website showcasing the breathtaking beauty of the **Sundarbans**, the world's largest mangrove forest. Built with a premium UI, smooth animations, and an engaging user experience, this project is designed to inspire travelers and promote unforgettable Sundarbans tour packages..
 
 
 > **Live Demo:** [https://sundarbans-sparkle-site.lovable.app](https://sundarbans-sparkle-site.lovable.app)
